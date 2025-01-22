@@ -49,9 +49,10 @@ The EDA phase answers the following key questions:
 11. What is the correlation between GDP and life expectancy?
 12. Which countries have declining life expectancy trends?
 13. What is the 5-year moving average of life expectancy for each country?
-14. What is the average life expectancy by region?
-15. What is the percentage contribution of each country to the global population?
-
+14. What is the average life expectancy by Country?
+15. Which countries have the highest life expectancy compared to the previous year ?
+16. What is the average life expectancy of each country?
+17. How does the life expectancy change year over year for each country ?
 
 ## Future Improvements
 
